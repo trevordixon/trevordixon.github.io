@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Trevor Dixon]]></title>
-  <link href="http://trevordixon.github.io/atom.xml" rel="self"/>
-  <link href="http://trevordixon.github.io/"/>
-  <updated>2013-09-10T23:40:03-06:00</updated>
-  <id>http://trevordixon.github.io/</id>
-  <author>
-    <name><![CDATA[Trevor Dixon]]></name>
-    <email><![CDATA[trevordixon@gmail.com]]></email>
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[Trevor Dixon]]></title>
+	<link href="http://trevordixon.github.io/atom.xml" rel="self"/>
+	<link href="http://trevordixon.github.io/"/>
+	<updated>2013-09-11T01:10:42-06:00</updated>
+	<id>http://trevordixon.github.io/</id>
+	<author>
+		<name><![CDATA[Trevor Dixon]]></name>
+		<email><![CDATA[trevordixon@gmail.com]]></email>
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Initial Commit]]></title>
-    <link href="http://trevordixon.github.io/blog/2013/09/04/initial-commit/"/>
-    <updated>2013-09-04T23:39:00-06:00</updated>
-    <id>http://trevordixon.github.io/blog/2013/09/04/initial-commit</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m thrilled to be in a computer science course that requires me to write blog
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Initial Commit]]></title>
+		
+		<link href="http://trevordixon.github.io/blog/2013/09/04/initial-commit/"/>
+		<updated>2013-09-04T23:39:00-06:00</updated>
+		<id>http://trevordixon.github.io/blog/2013/09/04/initial-commit</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I&rsquo;m thrilled to be in a computer science course that requires me to write blog
 posts.</p>
-]]></content>
-  </entry>
-  
+]]>
+		</content>
+	</entry>
+	
 </feed>
