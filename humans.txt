@@ -2,7 +2,7 @@
 Author: Trevor Dixon
 Site: 
 
-
+Github: https://www.github.com/trevordixon
 
 /* THANKS */
 Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
