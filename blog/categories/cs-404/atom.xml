@@ -4,7 +4,7 @@
   <title><![CDATA[Category: CS 404 | Trevor Dixon]]></title>
   <link href="http://trevordixon.github.io/blog/categories/cs-404/atom.xml" rel="self"/>
   <link href="http://trevordixon.github.io/"/>
-  <updated>2013-09-24T00:20:32-06:00</updated>
+  <updated>2013-09-24T00:24:43-06:00</updated>
   <id>http://trevordixon.github.io/</id>
   <author>
     <name><![CDATA[Trevor Dixon]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[iPhone's New Fingerprint Scanner Circumvented in One Day]]></title>
+    <link href="http://trevordixon.github.io/blog/2013/09/23/iphones-new-fingerprint-scanner-circumvented/"/>
+    <updated>2013-09-23T22:42:00-06:00</updated>
+    <id>http://trevordixon.github.io/blog/2013/09/23/iphones-new-fingerprint-scanner-circumvented</id>
+    <content type="html"><![CDATA[<p>The day after the release of the iPhone 5s, a team of German hackers had <a href="http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid">circumvented the iPhone&rsquo;s fingerprint scanner</a> causing many to dismiss TouchID as insecure and useless. I&rsquo;m more forgiving. In Hollywood, fingerprint scanners represent military-grade security, but to hold them to such standards in real life is unfair. TouchID is a consumer product that does well to balance security and usability. Fingerprint scanners aren&rsquo;t the panacea for all security issues, but given that <a href="http://www.sophos.com/en-us/press-office/press-releases/2011/08/67-percent-of-consumers-do-not-have-password-protection-on-their-mobile-phones.aspx">two-thirds of mobile phone users currently employ <em>no</em> access restriction tools</a>, easy-to-use security mechanisms like fingerprint scanners on mobile phones will improve security <em>generally</em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I Don't Know]]></title>
