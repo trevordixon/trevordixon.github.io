@@ -4,7 +4,7 @@
   <title><![CDATA[Category: CS 404 | Trevor Dixon]]></title>
   <link href="http://trevordixon.github.io/blog/categories/cs-404/atom.xml" rel="self"/>
   <link href="http://trevordixon.github.io/"/>
-  <updated>2013-10-08T11:54:18-06:00</updated>
+  <updated>2013-10-17T10:59:21-06:00</updated>
   <id>http://trevordixon.github.io/</id>
   <author>
     <name><![CDATA[Trevor Dixon]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Security is an Afterthought]]></title>
+    <link href="http://trevordixon.github.io/blog/2013/10/17/security-is-an-afterthought/"/>
+    <updated>2013-10-17T10:28:00-06:00</updated>
+    <id>http://trevordixon.github.io/blog/2013/10/17/security-is-an-afterthought</id>
+    <content type="html"><![CDATA[<p>Thirty years ago, it was already clear to network managers like Clifford Stoll that the username/password method of authentication is faulty. (People tend to pick easy-to-remember passwords that are easy to guess; complex assigned passwords get written down and are easily stolen.) Given that so many other aspects of computing have evolved dramatically after all these years, it&rsquo;s remarkable that this model is the still the norm.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Republicans Would Rather Cut Your Baby in Half Than Provide Healthcare to Poor People]]></title>
@@ -48,15 +57,6 @@
     <updated>2013-09-23T22:42:00-06:00</updated>
     <id>http://trevordixon.github.io/blog/2013/09/23/iphones-new-fingerprint-scanner-circumvented</id>
     <content type="html"><![CDATA[<p>The day after the release of the iPhone 5s, a team of German hackers had <a href="http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid">circumvented the iPhone&rsquo;s fingerprint scanner</a> causing many to dismiss TouchID as insecure and useless. I&rsquo;m more forgiving. In Hollywood, fingerprint scanners represent military-grade security, but to hold them to such standards in real life is unfair. TouchID is a consumer product that does well to balance security and usability; it isn&rsquo;t the panacea for all security issues, but given that <a href="http://www.sophos.com/en-us/press-office/press-releases/2011/08/67-percent-of-consumers-do-not-have-password-protection-on-their-mobile-phones.aspx">two-thirds of mobile phone users currently employ <em>no</em> access restriction tools</a>, easy-to-use smartphone security mechanisms like TouchID will improve security generally.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[I Don't Know]]></title>
-    <link href="http://trevordixon.github.io/blog/2013/09/11/I-dont-know/"/>
-    <updated>2013-09-11T21:09:00-06:00</updated>
-    <id>http://trevordixon.github.io/blog/2013/09/11/I-dont-know</id>
-    <content type="html"><![CDATA[<p>Dr. Knutson tells us that in recent years, he has decided to be decisive, but in a recording of an interview with Jon Dupre, the guest expert Dr. Knutson exhibits a rare and refreshing <em>irresoluteness</em>. Pressed to take a stand on tough issues, Dr. Knutson declines to deliver convenient common-sense opinions, offering instead a wise, humble &ldquo;I don&rsquo;t know&rdquo;. So-called common sense (a trait people tend to claim exclusively for themselves and those of like mind) produces so many wrong answers. The world needs more people with the patience and thoughtfulness to speak in less than absolute terms and the guts to say &ldquo;I don&rsquo;t know.&rdquo;</p>
 ]]></content>
   </entry>
   
