@@ -4,7 +4,7 @@
 	<title><![CDATA[Trevor Dixon]]></title>
 	<link href="http://trevordixon.github.io/atom.xml" rel="self"/>
 	<link href="http://trevordixon.github.io/"/>
-	<updated>2013-10-31T11:45:18-06:00</updated>
+	<updated>2013-11-12T11:24:56-07:00</updated>
 	<id>http://trevordixon.github.io/</id>
 	<author>
 		<name><![CDATA[Trevor Dixon]]></name>
@@ -12,6 +12,24 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Open Source Everything]]></title>
+		
+		<link href="http://trevordixon.github.io/blog/2013/11/12/open-source-everything/"/>
+		<updated>2013-11-12T10:46:00-07:00</updated>
+		<id>http://trevordixon.github.io/blog/2013/11/12/open-source-everything</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Open source software is born, evolved, and maintained in the same way the whole economy of Zion will be. Open source development will work just as well for book authoring, scientific research, city planning, art, and many other disciplines as it does for software development. We&rsquo;ll benefit enormously if leaders in other fields adopt open source development like the software community has.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
