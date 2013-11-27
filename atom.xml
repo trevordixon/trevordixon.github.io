@@ -4,7 +4,7 @@
 	<title><![CDATA[Trevor Dixon]]></title>
 	<link href="http://trevordixon.github.io/atom.xml" rel="self"/>
 	<link href="http://trevordixon.github.io/"/>
-	<updated>2013-11-23T10:07:19-07:00</updated>
+	<updated>2013-11-26T23:39:55-07:00</updated>
 	<id>http://trevordixon.github.io/</id>
 	<author>
 		<name><![CDATA[Trevor Dixon]]></name>
@@ -12,6 +12,25 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Software Shouldn't Be Patentable]]></title>
+		
+		<link href="http://trevordixon.github.io/blog/2013/11/26/software-shouldnt-be-patentable/"/>
+		<updated>2013-11-26T23:36:00-07:00</updated>
+		<id>http://trevordixon.github.io/blog/2013/11/26/software-shouldnt-be-patentable</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<iframe width="840" height="630" src="http://trevordixon.github.io//www.youtube.com/embed/t99TRI_5QiE" frameborder="0" allowfullscreen></iframe>
+
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
