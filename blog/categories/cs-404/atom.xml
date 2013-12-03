@@ -4,7 +4,7 @@
   <title><![CDATA[Category: CS 404 | Trevor Dixon]]></title>
   <link href="http://trevordixon.github.io/blog/categories/cs-404/atom.xml" rel="self"/>
   <link href="http://trevordixon.github.io/"/>
-  <updated>2013-11-27T00:06:33-07:00</updated>
+  <updated>2013-12-03T12:12:22-07:00</updated>
   <id>http://trevordixon.github.io/</id>
   <author>
     <name><![CDATA[Trevor Dixon]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Don't Squander Time]]></title>
+    <link href="http://trevordixon.github.io/blog/2013/12/03/dont-squander-time/"/>
+    <updated>2013-12-03T09:05:00-07:00</updated>
+    <id>http://trevordixon.github.io/blog/2013/12/03/dont-squander-time</id>
+    <content type="html"><![CDATA[<p>In reading about and considering the plight of those addicted to video games and lost in virtual worlds, I sometimes take false comfort in comparing my relatively minor weaknesses to such wild addictions. Few of us abuse technology in such an unhealthy manner as to approach the level of addiction, but to invest in television, video games, social media, or frivolous internet surfing for even a couple of hours each day requires the sacrifice of equally enjoyable but far more useful pursuits. I believe that committing to more than one TV show and making time for more than one movie per week represents too much media consumption. In my experience, the time saved by consciously limiting entertainment is time I spend playing with my daughter or programming side projects—activities I&rsquo;m much more proud of.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Software Shouldn't Be Patentable]]></title>
@@ -51,15 +60,6 @@
     <updated>2013-11-12T10:46:00-07:00</updated>
     <id>http://trevordixon.github.io/blog/2013/11/12/open-source-everything</id>
     <content type="html"><![CDATA[<p>Open source software is born, evolved, and maintained in the same way the whole economy of Zion will be. Open source development will work just as well for book authoring, scientific research, city planning, art, and many other disciplines as it does for software development. We&rsquo;ll benefit enormously if leaders in other fields adopt open source development like the software community has.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Crippled Internet]]></title>
-    <link href="http://trevordixon.github.io/blog/2013/10/31/a-crippled-internet/"/>
-    <updated>2013-10-31T10:55:00-06:00</updated>
-    <id>http://trevordixon.github.io/blog/2013/10/31/a-crippled-internet</id>
-    <content type="html"><![CDATA[<p>To grant companies, ISPs, or the government the power to censor Internet content undermines the principles that made the Internet great and threatens to diminish the Internet&rsquo;s power for good. The unregulated internet we are accustomed to won out over another vision for the World Wide Web: a tightly controlled, <a href="http://www.npr.org/blogs/money/2013/05/01/180255276/the-single-most-valuable-document-in-the-history-of-the-world-wide-web">&ldquo;government-sponsored broadband network that would have delivered video from TV stations and other approved content&rdquo;</a>—another FCC-regulated medium like radio or television. Such an internet might have been useless for pirating copyrighted material, distributing pornography, or bullying teenagers, but neither would it have facilitated an Arab Spring or inspired a generation of entrepreneurs. The properties of the World Wide Web that make it so dangerous are the same properties that make it a tool for incredible good. To control the Internet is to cripple it.</p>
 ]]></content>
   </entry>
   
